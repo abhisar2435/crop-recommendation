@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# ML Models
+*.pkl
+*.h5
+*.pt
+
+# Data
+dataset/
+
+# Training logs
+catboost_info/
+
+# Jupyter
+.ipynb_checkpoints/
