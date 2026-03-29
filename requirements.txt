@@ -6,4 +6,3 @@ streamlit
 gradio
 matplotlib
 altair==4.2.2
-imghdr
