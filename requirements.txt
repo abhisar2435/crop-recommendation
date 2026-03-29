@@ -2,7 +2,7 @@ numpy
 pandas
 scikit-learn
 seaborn
-streamlit
+streamlit==1.28.0
 gradio
 matplotlib
 altair==4.2.2
