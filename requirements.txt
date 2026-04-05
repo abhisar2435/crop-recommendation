@@ -1,8 +1,5 @@
+streamlit
 numpy
 pandas
 scikit-learn
-streamlit==1.28.0
-seaborn
-matplotlib
-altair==4.2.2
-pillow==9.5.0
+catboost
